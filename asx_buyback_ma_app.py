@@ -14,7 +14,7 @@ This app fetches closing price, 20-day moving average (MA20), and 50-day moving 
 
 # -----------------------------
 # List of Tickers
-tickers = ["LYC.AX", "NMT.AX", "IMM.AX", "WHK.AX", "PLS.AX", "AXE.AX", "A2M.AX", "SOL.AX", "AL3.AX"]
+tickers = ["LYC.AX", "NMT.AX", "IMM.AX", "WHK.AX", "PLS.AX", "AXE.AX", "A2M.AX", "SOL.AX", "AL3.AX", "XJO.AX"]
 
 # Create a zip file in memory
 zip_buffer = io.BytesIO()
