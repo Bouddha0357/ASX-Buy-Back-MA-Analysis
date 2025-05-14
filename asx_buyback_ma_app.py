@@ -48,6 +48,6 @@ zip_buffer.seek(0)
 st.download_button(
     label="Download All Stocks as ZIP",
     data=zip_buffer,
-    file_name="all_stocks_data.zip",
+    file_name="buyback_stocks_data.zip",
     mime="application/zip"
 )
