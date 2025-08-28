@@ -11,7 +11,7 @@ st.title("📈 ASX Stocks to Potentially Buyback Data Downloader - Closing Price
 # -----------------------------
 # ASX Ticker List (from your screenshot)
 tickers = [
-    "LYC",  "IMM",  "WHK",  "A2M",  "SOL",  "DRO",  "LGP",  "PLY",  "RFG",  "GEAR" 
+    "LYC",  "IMM",  "WHK",  "A2M",  "SOL",  "DRO",  "LGP",  "PLY",  "RFG",  "BBOZ" 
 ]
 
 # Add ".AX" to each ticker for Yahoo Finance
@@ -54,4 +54,5 @@ if all_data:
     )
 else:
     st.error("No data was fetched. Please try again later or check ticker symbols.")
+
 
