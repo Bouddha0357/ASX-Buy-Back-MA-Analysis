@@ -11,7 +11,7 @@ st.title("📈 ASX Stocks to Potentially Buyback Data Downloader - Closing Price
 # -----------------------------
 # ASX Ticker List (from your screenshot)
 tickers = [
-    "LYC",  "WHK",  "A2M",  "LGP",  "BBOZ",  "PLS",  "SOL",  "GEAR",  "RFG",  "TLS",  "AXE",  "TRP",  "DRO",  "XRG",  "4DX",  "CXL",  "APX",  "ARU",  "IR1",  "KLV",  "VBS",  "AL3",  "HAS",  "VUL",  "PLY",  "PPL"
+    "LYC",  "WHK",  "A2M",  "LGP",  "BBOZ",  "PLS",  "SOL",  "GEAR",  "RFG",  "TLS",  "TRP",  "XRG",  "4DX",  "CXL",  "APX",  "ARU",  "IR1",  "KLV",  "VBS",  "AL3",  "HAS",  "VUL",  "PLY",  "PPL"
 ]
 
 # Add ".AX" to each ticker for Yahoo Finance
